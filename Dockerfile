@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:49bf045db42aa0bfe124e9c5a5c511595e8fc27bf3a77e3900d9dec2b350173c
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:c8bf9cf76139083d6623c40215426c8998acd46eb156cc7ff998c8c2b9e4051c
 MAINTAINER Tony <tony@hostscc.com>
